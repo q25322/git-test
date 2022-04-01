@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("版本二 222");
         System.out.println("版三 333");
         System.out.println("hello git4!");
+        System.out.println("hot-fix test");
     }
 }
